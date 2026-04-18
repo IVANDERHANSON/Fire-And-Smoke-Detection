@@ -4,6 +4,12 @@ Sistem deteksi api dan asap berbasis **deep learning** yang menggabungkan **obje
 
 ---
 
+## <img width="50" height="30" alt="image" src="https://github.com/user-attachments/assets/cf9a67cd-bc62-4302-b897-55c891234539" /> Colab Version
+
+https://colab.research.google.com/drive/1ST3gpvqD-jz2Xq4V1dXCFjsTwICvf7Ly?usp=sharing
+
+---
+
 ## 📌 Overview
 
 Project ini menggunakan pendekatan **hybrid model**:
