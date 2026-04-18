@@ -19,7 +19,9 @@ Pendekatan ini membantu:
 
 ## 🧠 Architecture
 Input Image
+
 ├── YOLOv8 → Fire/Smoke Detection (Bounding Box)
+
 └── ResNet18 → fire / smoke / Neutral Classification
 
 - YOLOv8: deteksi objek (fire & smoke)
